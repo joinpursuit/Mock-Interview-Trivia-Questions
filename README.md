@@ -125,7 +125,7 @@ const newArr = [...[1, 2, 3], ...[4, 5, 6]];
 
 <hr>
 What is the value of `color` for `newCar`
-What is the value of `color for `secondNewCar`
+What is the value of `color` for `secondNewCar`
 
 ```js
 class Car {
@@ -137,5 +137,5 @@ class Car {
 }
 
 const newCar = new Car("Mazda", "MX-30");
-const newCar = new Car("Porche", "Vintage Carrera", "Yellow");
+const secondNewCar = new Car("Porche", "Vintage Carrera", "Yellow");
 ```
