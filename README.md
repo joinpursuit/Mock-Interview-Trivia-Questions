@@ -107,7 +107,7 @@ Insert Dash
 
 ### OOP
 
-What is wrong with the following code?
+1. What is wrong with the following code?
 
 ```js
 const delete = (item) => {
@@ -115,17 +115,9 @@ const delete = (item) => {
 }
 ```
 
-### Search Algos
-
-What is the value of `newArr`
-
-```js
-const newArr = [...[1, 2, 3], ...[4, 5, 6]];
-```
-
-<hr>
-What is the value of `color` for `newCar`
-What is the value of `color` for `secondNewCar`
+2. What whill the value be for `color`, after the following code runs, for the following instances of `Car`:
+  - `newCar` 
+  - `secondNewCar`
 
 ```js
 class Car {
@@ -138,4 +130,12 @@ class Car {
 
 const newCar = new Car("Mazda", "MX-30");
 const secondNewCar = new Car("Porche", "Vintage Carrera", "Yellow");
+```
+
+### Search Algos
+
+What is the value of `newArr`
+
+```js
+const newArr = [...[1, 2, 3], ...[4, 5, 6]];
 ```
