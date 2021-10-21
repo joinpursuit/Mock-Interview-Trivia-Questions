@@ -10,7 +10,7 @@
 |                                What is the difference between `=`, `==`, and `===`                                 |         Math         |
 |                                                   What is `NaN`?                                                   |         Math         |
 |                                        Is `NaN == NaN` true or false, why?                                         |         Math         |
-|                          Is `'McDonalds' > 'Burger King' - true, false or an error? Why?                           |   Strings & RegEx    |
+|                          Is `'McDonalds' > 'Burger King'` - true, false or an error? Why?                           |   Strings & RegEx    |
 |             What are the differences between a single quote, double quote, smart quote, and backtick?              |   Strings & RegEx    |
 |                              What is the difference between `a` and `'a'` in JavaScript?                               |   Strings & Regex    |
 |                  What is the difference between a function declaration and a function expression?                  |        Errors        |
