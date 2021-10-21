@@ -31,7 +31,7 @@
 |                                            What does `parseFloat()` do?                                            |      Recursion       |
 |                                              What does `Number()` do?                                              |      Recursion       |
 |                                              What does `isNaN()` do?                                               |      Recursion       |
-| In JavaScript `.?` is the symbol for optional chaining. What is optional chaining and where/when would you use it? |         OOP          |
+| In JavaScript `?.` is the symbol for optional chaining. What is optional chaining and where/when would you use it? |         OOP          |
 |                                               Code block, see below                                                |         OOP          |
 |                         In JavaScript, what does the keyword static inside of a class do?                          |        OOP 2         |
 |                          Why would we use the keyword static? What problem does it solve?                          |        OOP 2         |
