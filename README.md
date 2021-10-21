@@ -103,7 +103,7 @@ undefined
 ```
 
 Why is the last item `undefined`?
-Insert Dash
+
 
 ### OOP
 
