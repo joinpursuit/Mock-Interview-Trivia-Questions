@@ -115,7 +115,7 @@ const delete = (item) => {
 }
 ```
 
-2. What whill the value be for `color`, after the following code runs, for the following instances of `Car`:
+2. What will the value be for `color`, after the following code runs, for the following instances of `Car`:
   - `newCar` 
   - `secondNewCar`
 
