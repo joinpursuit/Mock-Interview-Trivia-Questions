@@ -102,7 +102,7 @@ The output is
 undefined
 ```
 
-Why is the line `undefined`?
+Why is the last line `undefined`?
 
 
 ### OOP
