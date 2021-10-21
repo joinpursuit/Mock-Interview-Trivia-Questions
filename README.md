@@ -42,7 +42,7 @@
 |                                               Code block, see below                                                |  searching algos 1   |
 |                                                                                                                    |  searching algos 1   |
 |  if `const` declares a constant variable, why can you declare an array and still add/change and delete elements?   |  searching algos 2   |
-|                                                                                                                    |  searching algos 2   |
+|                                                     Code block, see blow                                           |  searching algos 2   |
 |                                                                                                                    |  searching algos 2   |
 |                                                                                                                    |     hash tables      |
 |                                                                                                                    |     hash tables      |
@@ -139,3 +139,27 @@ What is the value of `newArr`
 ```js
 const newArr = [...[1, 2, 3], ...[4, 5, 6]];
 ```
+
+### Search Algos 2
+
+What is the final value of `a` and `b`
+
+```js
+let a = 10;
+let b = 20;
+
+[a , b] = [b, a];
+
+```
+
+Is there any difference if the code is written like so?
+```js
+const a = 10;
+const b = 20;
+
+[a , b] = [b, a];
+
+```
+
+
+
