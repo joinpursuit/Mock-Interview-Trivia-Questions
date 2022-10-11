@@ -2,7 +2,7 @@
 
 |                                                      Question                                                      |  Associated Lesson   |
 | :----------------------------------------------------------------------------------------------------------------: | :------------------: |
-|                           What is the difference between an parameter and and argument?                            |     Control Flow     |
+|                           What is the difference between a parameter and an argument?                            |     Control Flow     |
 |                              What is the difference between `var`, `const`, and `let`                              |     Control Flow     |
 |                   Within a function, what is the difference between `return` and `console.log()`                   |     Control Flow     |
 |                                               Code block, see below                                                |     Control Flow     |
